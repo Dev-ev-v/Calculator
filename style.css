@@ -1,3 +1,12 @@
 body {
-  backgound-color: red;
+  backgound-color: rgba(20, 20, 20, 0.5);
+}
+#visor {
+background-color: rgba(255, 255, 255, 0.8);
+}
+#buttons {
+display: flex;
+  justify-content: center;
+  align-itens: center;
+  height: 100px;
 }
